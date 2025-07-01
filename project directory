@@ -1,0 +1,9 @@
+fabric-classifier/
+│
+├── train.py
+├── predict.py
+├── requirements.txt
+└── data/
+    ├── stripes/
+    ├── floral/
+    └── polkadots/
